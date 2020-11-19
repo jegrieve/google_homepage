@@ -1,0 +1,81 @@
+body, html {
+    font-size: small;
+}
+
+body {
+    background: #fff;
+    color: #202124;
+}
+
+.google-img {
+    text-align:center;
+    padding-top:153px;
+}
+
+.search-bar {
+    text-align: center;
+    padding-top: 20px;
+}
+.search {
+    height: 40px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    font-size: 16px;
+    outline: none;
+    width: 475px;
+}
+
+.btns {
+  padding-top: 25px;  
+  text-align: center;
+}
+
+.search-btn {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    cursor: pointer;
+}
+
+.lucky-btn {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    cursor: pointer;
+}
+
+.search-icon-container {
+    margin-right: 430px;
+    margin-top: -31px;
+}
+.search-icon {
+    width: 22px;
+    height: 21px;
+    color: #9aa0a6;
+    fill: currentColor;
+}
+
+.mic-icon-container {
+    margin-left: 430px;
+    margin-top: -28px;
+    cursor: pointer;
+}
+
+.mic-icon {
+    width: 24px;
+    height: 24px;
+}
+
+/* also remember to fix when you type things in input */
