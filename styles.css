@@ -23,6 +23,7 @@ body {
     font-size: 16px;
     outline: none;
     width: 475px;
+    text-indent: 50px;
 }
 
 .btns {
@@ -77,5 +78,3 @@ body {
     width: 24px;
     height: 24px;
 }
-
-/* also remember to fix when you type things in input */
