@@ -26,6 +26,10 @@ body {
     text-indent: 50px;
 }
 
+.search:hover, .search-btn:hover, .lucky-btn:hover {
+    box-shadow: 1px 1px 5px #8888889f;
+}
+
 .btns {
   padding-top: 25px;  
   text-align: center;
